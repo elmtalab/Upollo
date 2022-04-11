@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/elmtalab
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://upollo.io
+  * I am elmtalab (https://keybase.io/elmtalab) on keybase.
+  * I have a public key ASD9Kch-mVwJC22E2wtHqXesCJQQV1dijLypqv4KWrozggo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd29c87e995c090b6d84db0b47a977ac0894105757628cbca9aafe0a5aba33820a",
+      "host": "keybase.io",
+      "kid": "0120fd29c87e995c090b6d84db0b47a977ac0894105757628cbca9aafe0a5aba33820a",
+      "uid": "ee839a58fb48e157ee0ea6f7653f4919",
+      "username": "elmtalab"
+    },
+    "merkle_root": {
+      "ctime": 1649681188,
+      "hash": "37bed9522f51d08131cc6bb4d0bcc7c435fcf48a3261ee8663742c223842d3bd85b796a4148c350acb948927d0d2ccee784fc612691b12e63cc84f5e774ce216",
+      "hash_meta": "5a19808583132b535e07fd4a535cced2c1d1ed28c0e9880f8f5f998a88731b0d",
+      "seqno": 22269801
+    },
+    "service": {
+      "entropy": "pTUJ4B0rK4clZTvR7uhiGEvK",
+      "hostname": "upollo.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1649681249,
+  "expire_in": 504576000,
+  "prev": "d3ba282191b48643efc1f9f13ad1d556f3d82ede81f777ae129018dde166360a",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/SnIfplcCQtthNsLR6l3rAiUEFdXYoy8qar+Clq6M4IKp3BheWxvYWTESpcCCcQg07ooIZG0hkPvwfnxOtHVVvPYLt6B93euEpAY3eFmNgrEIOoCpnNEVLxdUDrP6S03AU6SjjYSoZ/M4XxLmKZ2GAjpAgHCo3NpZ8RAWppOi26qF8/7alukoyeE0y2tTvhKoHFYSK9P5BBixls34Q9dVZtdOzUGzcPczye/iPywOhNMHQOrdCGDC+sxCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEqRCzjAgzokX6f8vryIRgEy2FYMWUxND+T70i3PRs/ko3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/elmtalab
+
+==================================================================
