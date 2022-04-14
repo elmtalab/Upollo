@@ -1,8 +1,7 @@
 # AirCoin stellar.toml
-
+VERSION="2.2.0"
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-DOMAIN="https://upollo.io"
 
 ACCOUNTS=[
 "GD6EU27ESEEWK7H2TFLFJTQOMMNLMVZIQPRSLWUXKXYPGQFHO5KLSUFE"]
@@ -14,7 +13,6 @@ ORG_LOGO="https://upollo.io/air128c.png"
 ORG_DESCRIPTION="QAirCoin allows tourists across multiple countries to exercise their share of influence within their favourite place/club/natural reserve."
 ORG_TWITTER="https://twitter.com/aircoin"
 ORG_GITHUB="https://github.com/aircoin"
-ORG_TELEGRAM="https://t.me/aircoin"
 ORG_OFFICIAL_EMAIL="info@aircoin.com"
 
 [[CURRENCIES]]
