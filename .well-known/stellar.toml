@@ -4,29 +4,21 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 
 ACCOUNTS=[
-"GD6EU27ESEEWK7H2TFLFJTQOMMNLMVZIQPRSLWUXKXYPGQFHO5KLSUFE"]
+"GCU22F54IB2PBVTDOMVO36YS4J5R2TEUYV4PG24R3RBVUVTWRN3Q6JET"]
 
 [DOCUMENTATION]
 ORG_NAME="Aircoin"
-ORG_URL="https://upollo.io"
-ORG_LOGO="https://upollo.io/air128c.png"
+ORG_URL="https://qaircoin.io"
+ORG_LOGO="https://qaircoin.io/air128c.png"
 ORG_DESCRIPTION="QAirCoin allows tourists across multiple countries to exercise their share of influence within their favourite place/club/natural reserve."
-ORG_TWITTER="https://twitter.com/aircoin"
-ORG_GITHUB="https://github.com/aircoin"
-ORG_OFFICIAL_EMAIL="info@aircoin.com"
+ORG_TWITTER="https://twitter.com/qaircoin"
+ORG_GITHUB="https://github.com/qaircoin"
+ORG_OFFICIAL_EMAIL="info@qaircoin.com"
 
-[[CURRENCIES]]
-code="AirCoin"
-name="AirCoin"
-issuer="GD6EU27ESEEWK7H2TFLFJTQOMMNLMVZIQPRSLWUXKXYPGQFHO5KLSUFE"
-desc="QAirCoin allows tourists across multiple countries to exercise their share of influence within their favourite place/club/natural reserve."
-image="https://upollo.io/air128c.png"
-status="live"
-display_decimals=7
-fixed_number=4170000000
+
 
 
 [[PRINCIPALS]]
-email="info@aircoin.com"
-twitter="@aircoin"
-telegram="@aircoin"
+email="info@qaircoin.com"
+twitter="@qaircoin"
+telegram="@qaircoin"
